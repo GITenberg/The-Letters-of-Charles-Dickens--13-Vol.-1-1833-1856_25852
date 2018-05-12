@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '31615'
     url: http://www.gutenberg.org/2009/agents/31615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25852#The-Letters-of-Charles-Dickens--13-Vol.-1-1833-1856
 gutenberg_issued: '2008-06-20'
 gutenberg_type: Text
 identifiers:
